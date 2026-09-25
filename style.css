@@ -13,11 +13,11 @@ font-family: Arial, Helvetica, sans-serif;
     padding: 10px 20px;
     font-size: 1.5em;
     color: #ffffff;
-    background-color: rgb(123, 99, 146);
+    background-color: rgb(92, 46, 136);
     border-radius: 5px;
     cursor: pointer;
-    transition: backgoround-color 0.25s;
+    transition: background-color 0.25s;
 }
-.buttons :hover{
-    background-color: rgb(54, 14, 91); ;
+.buttons:hover{
+    background-color: rgb(23, 5, 40); 
 }
