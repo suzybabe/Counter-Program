@@ -4,6 +4,11 @@ A simple counter web application built using HTML, CSS, and JavaScript.
 ## Preview
 
 ![Counter Program](images/counter-preview.png)
+<img width="404" height="218" alt="image" src="https://github.com/user-attachments/assets/01e44bfe-cdcf-4af9-a024-1c480ba6ca5a" />
+
+<img width="385" height="232" alt="image" src="https://github.com/user-attachments/assets/82b005b9-c819-4988-b62c-4062e9c9be07" />
+
+
 
 ## Features
 
