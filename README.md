@@ -1,2 +1,45 @@
 # Counter-Program
-A simple Java counter application that allows users to increase, decrease, and reset a counter through an easy-to-use graphical interface. This project was created to practise javascript, html event handling, and building interactive GUI applications.
+A simple counter web application built using HTML, CSS, and JavaScript.
+
+## Preview
+
+![Counter Program](images/counter-preview.png)
+
+## Features
+
+- Increase the counter
+- Decrease the counter
+- Reset the counter to 0
+- Interactive button hover effects
+- Updates the counter dynamically without refreshing the page
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## How It Works
+
+The counter starts at 0 and is stored in a JavaScript variable.
+
+Each button has an event handler:
+
+- **Increase** increments the counter by 1.
+- **Decrease** decrements the counter by 1.
+- **Reset** sets the counter back to 0.
+
+The updated value is displayed on the webpage using `textContent`.
+
+## What I Learned
+
+Through this project, I practised:
+
+- Selecting HTML elements using `document.getElementById()`
+- Using `const` and `let`
+- Handling button clicks with `onclick`
+- Using the increment (`++`) and decrement (`--`) operators
+- Updating HTML content with `textContent`
+- Styling elements with CSS
+- Using CSS `:hover` effects
+- Connecting HTML, CSS and JavaScript together
